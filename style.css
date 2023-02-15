@@ -1,0 +1,21 @@
+h1{
+    text-align: center
+
+}
+input[type=submit]:hover {
+  background-color: #45a049
+}
+body{
+    background-color:purple;
+    background-image: url('/assets/music.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+
+}
+#form{
+    border: 2px solid black;
+     width:70%; 
+     margin-left: 100px
+}
